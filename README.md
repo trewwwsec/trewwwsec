@@ -1,4 +1,3 @@
----
 <p align="center">
   <code style="color: #00ff9d;">trewwwsec@terminal:~$ whoami</code>
 </p>
