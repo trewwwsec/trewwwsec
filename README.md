@@ -35,8 +35,20 @@ Cybersecurity professional based in California specializing in cloud security, i
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trewwwsec&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="trewwwsec stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trewwwsec&layout=compact&theme=transparent&hide_border=true" alt="top languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=trewwwsec&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="trewwwsec stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trewwwsec&layout=compact&theme=transparent&hide_border=true" alt="top languages" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=trewwwsec&theme=transparent&hide_border=true&background=0d1117" alt="streak" height="130"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=trewwwsec&theme=transparent&hide_border=true&no-frame=true&column=-1" alt="trophies" width="100%"/>
 </p>
 
 ---
