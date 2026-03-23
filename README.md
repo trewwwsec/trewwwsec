@@ -1,11 +1,3 @@
-# 👋 Hello, I'm Trevor
-
-> IT Engineer by day. Ethical Hacker by night.
-
-Cybersecurity professional based in California specializing in cloud security, infrastructure automation, and offensive security tooling.
-
----
-
 ## 🛠️ Tech Stack
 
 **Cloud & Infrastructure**
