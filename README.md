@@ -53,14 +53,4 @@ Cybersecurity professional based in California specializing in cloud security, i
 
 ---
 
-## 🔗 Connect
-
-<p align="center">
-  <a href="https://github.com/trewwwsec">
-    <img src="https://img.shields.io/github/followers/trewwwsec?style=social" alt="GitHub followers"/>
-  </a>
-</p>
-
----
-
 *Last updated: March 2026*
