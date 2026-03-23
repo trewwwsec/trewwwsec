@@ -10,12 +10,13 @@
 ---
 
 **projects**
-| repo | about |
-|------|-------|
-| [trew-scan](https://github.com/trewwwsec/trew-scan) | security scanning framework |
-| [tf-aws-soc](https://github.com/trewwwsec/tf-aws-soc) | SOC infrastructure as code |
-| [tf-gcp-genai](https://github.com/trewwwsec/tf-gcp-genai) | GCP security + AI automation |
-| [vector4cyber](https://github.com/trewwwsec/vector4cyber) | threat detection pipeline |
+```
+[subrecon]      passive perimeter OSINT scanner
+[clawrails]    security guardrails for AI agents
+[vector4cyber] threat detection pipeline
+[tf-aws-soc]   SOC infrastructure as code
+[tf-gcp-genai] GCP security + AI automation
+```
 
 ---
 
