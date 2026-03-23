@@ -1,11 +1,3 @@
-```
-trewwwsec@cyberpunk:~$ cat ~/profile.md
-```
-
-**trewwwsec** — Cybersecurity Analyst — California, USA
-
----
-
 ### ~tools
 `AWS` `GCP` `Terraform` `Docker` `Python` `Bash` `Linux`
 
