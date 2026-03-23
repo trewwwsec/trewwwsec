@@ -10,13 +10,7 @@
 ---
 
 **projects**
-```
-[subrecon]      passive perimeter OSINT scanner
-[clawrails]    security guardrails for AI agents
-[vector4cyber] threat detection pipeline
-[tf-aws-soc]   SOC infrastructure as code
-[tf-gcp-genai] GCP security + AI automation
-```
+[subrecon](https://github.com/trewwwsec/subrecon) · [clawrails](https://github.com/trewwwsec/clawrails) · [vector4cyber](https://github.com/trewwwsec/vector4cyber) · [tf-aws-soc](https://github.com/trewwwsec/tf-aws-soc)
 
 ---
 
