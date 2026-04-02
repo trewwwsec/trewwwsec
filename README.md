@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=trewwwsec&show_icons=true&count_private=true&hide_border=true&title_color=00ff9d&text_color=00ff9d&bg_color=0d1117" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trewwwsec&layout=compact&theme=transparent&hide_border=true&title_color=00ff9d&text_color=00ff9d&bg_color=0d1117" alt="langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trewwwsec&layout=compact&langs_count=8&card_width=320&size_weight=0.5&count_weight=0.5&hide=html,css&hide_border=true&title_color=00ff9d&text_color=00ff9d&bg_color=0d1117" alt="langs"/>
 </p>
 
 <p align="center">
